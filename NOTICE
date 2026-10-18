@@ -1,0 +1,14 @@
+Cartoon Pet Workshop
+
+This project includes the OpenAI-bundled hatch-pet Python scripts and two
+reference documents under third_party/hatch_pet, copied without modification
+from the installed hatch-pet distribution. The upstream LICENSE.txt identifies
+Apache License 2.0; that license is preserved alongside the files.
+
+The added scripts and documentation are part of this workshop. Demo character
+art and animation assets are AI-generated examples based on a user-provided
+reference. No original photograph is included. The code license does not grant
+likeness, publicity, trademark, or other third-party rights in demo artwork.
+Do not assume the example character is available for commercial use.
+
+This is an independent workflow example, not an official OpenAI product.
